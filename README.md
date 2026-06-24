@@ -6,21 +6,28 @@ Each project lives in its own folder and follows a consistent format: problem st
 
 ## 📂 Projects
 
-| # | Project | Type | Description |
-|---|---------|------|-------------|
-| 1 | [Driver Cancellation Rate Increase — Ola](./01-ola-driver-cancellation-rca) | Root Cause Analysis | Investigates a 5% increase in driver-side ride cancellations on Ola, identifies likely root causes (commission changes, local union pressure, weather/traffic, technical issues), and proposes prioritized fixes with success metrics. |
+
+| # | Project                                                                                              | Type                | Description                                                                                                                                                                                                               |
+| - | ---------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | [Driver Cancellation Rate Increase — Ola](./01-ola-driver-cancellation)                              | Root Cause Analysis | Investigates an increase in driver-side ride cancellations on Ola, identifies likely root causes, and proposes prioritized solutions with success metrics.                                                                |
+| 2 | [Netflix Magic Wand — AI Content Discovery](./Netflix%20Magic%20Wand%20-%20AI%20Content%20Discovery) | Product Improvement | Solves Netflix's content discovery problem by introducing an AI-powered recommendation feature called "Magic Wand" that reduces content selection time and improves user engagement through personalized recommendations. |
 
 ## 🧠 Skills Demonstrated
-- Problem definition & scoping
-- Clarifying questions & assumption-making
-- Root cause analysis (RCA)
-- Hypothesis generation & prioritization (Impact vs. Effort, Segmentation)
-- Data investigation planning
-- Solution design (short-term vs. long-term)
-- Success metric definition
+
+* Problem definition & scoping
+* User research & personas
+* Root cause analysis (RCA)
+* Product improvement frameworks
+* Prioritization (RICE, Impact vs Effort)
+* Metrics design & North Star Metrics
+* Solution design and validation
+* Product strategy & decision-making
+* AI product thinking
 
 ## 📌 About
-This repo is part of my product management practice/portfolio, where I work through realistic PM case studies similar to those asked in PM interviews and on-the-job problem-solving.
+
+This repo is part of my product management portfolio, where I work through realistic PM case studies, product improvements, and business problems similar to those encountered in PM interviews and real-world product teams.
 
 ---
-*More projects (product strategy, A/B testing, prioritization frameworks, metrics dashboards) will be added over time.*
+
+*More projects (A/B testing, product strategy, growth, metrics dashboards, PRDs, and AI product case studies) will be added over time.*
