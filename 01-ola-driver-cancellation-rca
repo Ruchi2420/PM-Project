@@ -1,0 +1,59 @@
+# Root Cause Analysis: Driver Cancellation Rate Increase — Ola
+
+## Overview
+
+This case study analyzes the increase in driver cancellation rates on the Ola platform. The objective is to identify the underlying causes, evaluate their impact on customers and business metrics, and propose data-driven solutions to reduce cancellations.
+
+## Problem Statement
+
+Ola has observed a significant increase in driver cancellation rates, leading to poor customer experience, increased ride abandonment, and reduced platform trust.
+
+## Objectives
+
+* Identify the major reasons behind driver cancellations.
+* Analyze the impact on customers and business metrics.
+* Perform root cause analysis using product management frameworks.
+* Recommend actionable solutions to reduce cancellation rates.
+
+## Approach
+
+* Problem Definition
+* Data Analysis
+* User Journey Mapping
+* Root Cause Analysis (5 Whys, Fishbone Diagram)
+* Impact Assessment
+* Solution Prioritization
+* Success Metrics
+
+## Key Metrics
+
+* Driver Cancellation Rate
+* Customer Cancellation Rate
+* Ride Completion Rate
+* Average Driver Earnings
+* Customer Satisfaction Score
+* Repeat Booking Rate
+
+## Potential Root Causes
+
+* Low driver incentives
+* Long pickup distances
+* Traffic congestion
+* Payment method issues
+* Customer no-shows
+* Incorrect location information
+* Peak-hour supply-demand imbalance
+
+## Proposed Solutions
+
+* Dynamic incentive programs
+* Improved driver matching algorithms
+* Cancellation penalties for repeated offenders
+* Better pickup location accuracy
+* Real-time demand forecasting
+
+## Outcome
+
+This case study demonstrates how product managers use data, frameworks, and customer insights to identify problems and improve marketplace efficiency.
+
+Skills Demonstrated:Root Cause Analysis, Product Thinking, Metrics Analysis, Problem Solving, User Experience, and Data-Driven Decision Making.
